@@ -6,7 +6,7 @@ This is my personal portfolio website built to showcase my projects, skills, and
 https://rosicatemelkoska-portfolio.vercel.app
 
 ## 🛠️ Built With
-- HTML / CSS / JavaScript
+- HTML / CSS / JavaScript / TypeScript
 - Next.js
 - Vercel
 
