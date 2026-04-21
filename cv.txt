@@ -1,0 +1,61 @@
++389 78 382 213
+temelkoskarosica@gmail.com
+Faculty of Computer Science and
+Engineering (FCSE)
+October 2021 
+November 2025
+Education
+English - Advanced
+Language
+ROSICA TEMELKOSKA
+June 2024 
+September
+2024 
+ ДОО "Горсај" (Part-Time), Кичево
+Sale staff
+Work Experience
+Motivated and detail-oriented Computer Science and Engineering graduate
+seeking a full-time position in the IT field. Passionate about software development,
+data science, and machine learning, with hands-on experience in programming,
+database management, and cloud technologies. Strong analytical and problem
+solving skills, with a continuous drive to learn and adapt to emerging technologies.
+Eager to contribute to a dynamic team and apply academic knowledge to real
+world challenges.
+LinkedIn
+Bachelor of Science in Computer Science
+and Engineering, specializing in Software
+Engineering and Information Systems
+Technical skills
+Programming Languages: Python, Java, C++, C#,
+C, JavaScript, Angular
+Databases: SQL, PostgreSQL, MongoDB
+Web Technologies: HTML, CSS, Django, SpringBoot
+Tools & Platforms: Git, Docker, Linux, Google
+Colab, Visual Studio Code, IntelliJ IDEA, PyCharm,
+Jupyter Notebook
+Machine Learning: Scikit-learn, Neural Networks,
+CNN, RNN, LSTM, Transformers, Pandas, NumPy
+Macedonian - Native
+Soft skills
+Problem-Solving
+Critical Thinking
+Attention to Detail
+Collaboration & Teamwork
+Adaptability & Flexibility
+Time Management
+June 2025 
+September
+2025 
+Комерцијална Банка АД, Скопје
+Internship in IT(Full Stack Developer Internship),
+working on projects with C#(.NET), SSMS, Angular and
+JavaScript
+GitHub
+Projects
+mywebsite (HTML, CSS)
+DPNS1-project (Python)
+dians-task-titans(Java, HTML, CSS)
+BookStore(.NET, C#, HTML, CSS)
+PNVI_Proekt(Python)
+FoodApp(.NET, C#, HTML, CSS)
+to be continued .
